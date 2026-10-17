@@ -20,9 +20,6 @@
 *.toc
 *.vrb
 
-# Generated document
-/main.pdf
-
 # Common build directories
 /build/
 /out/
